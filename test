@@ -8,7 +8,7 @@ KeyGuardian:Set({
 -- ServiceToken = publicToken
 -- APIToken = privateToken
 
-local Key = "prefis8b03e264f1244d7da9db6149389aa1bf";
+local Key = "";
 
 print(KeyGuardian:GetKeylink())
 
