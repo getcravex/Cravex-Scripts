@@ -1,6 +1,5 @@
-# ⚠️ This is discontinued, please use **ReGui** instead!
-# https://github.com/depthso/Dear-ReGui
-
+# Original Post : 
+# https://github.com/depthso/Roblox-ImGUI
 ---
 
 <div align="center">
