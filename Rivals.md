@@ -1,4 +1,3 @@
 # Rivals
-Ragebot 🎯
-
-Gun Mods ⚙️
+# Ragebot 🎯
+# Gun Mods ⚙️
