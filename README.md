@@ -13,23 +13,3 @@ Rivals 💥🔫
 
 Legends of Speed ⚡🏃‍♂️⚡
 
-# Rivals
-Ragebot 🎯
-
-Gun Mods ⚙️
-
-# Legends of Speed
-Auto Farm Speed Multiplier ⚙️
-
-Auto Farm Steps ⚡
-
-Auto Farm Gems 💎
-
-Auto Farm XP 🎉
-
-Claim All Codes 🎁
-
-Start Quests ❓
-
-and More!
-
