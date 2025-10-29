@@ -1,5 +1,5 @@
-local FOV_RADIUS = FovSize or 150
-FovSize = nil
+local FOV_RADIUS = _G.FovSize or 150
+_G.FovSize = nil
 
 local Services = loadstring(game:HttpGet("https://raw.githubusercontent.com/getcravex/Cravex-Scripts/refs/heads/main/Versus%20Demo/Services.lua"))()
 
