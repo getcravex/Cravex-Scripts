@@ -1,7 +1,15 @@
 local FOV_RADIUS = _G.FovSize or 150
 _G.FovSize = nil
 
-local Services = loadstring(game:HttpGet("https://raw.githubusercontent.com/getcravex/Cravex-Scripts/refs/heads/main/Versus%20Demo/Services.lua"))()
+local HttpService = game:GetService("HttpService")
+local success, Services = pcall(function()
+    return loadstring(HttpService:GetAsync("https://raw.githubusercontent.com/getcravex/Cravex-Scripts/refs/heads/main/Versus%20Demo/Services.lua"))()
+end)
+if not success then
+    warn("Failed to load Services.lua")
+    return
+end
+
 local Players, Workspace = Services:Get('Players', 'Workspace')
 local RunService = game:GetService("RunService")
 local CurrentCamera = Workspace.CurrentCamera
