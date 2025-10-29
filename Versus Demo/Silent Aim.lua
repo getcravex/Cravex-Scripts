@@ -1,5 +1,5 @@
-local FOV_RADIUS = _G.SilentAimConfig or 150
-_G.SilentAimConfig = nil
+local FOV_RADIUS = FovSize or 150
+FovSize = nil
 
 local Services = loadstring(game:HttpGet("https://raw.githubusercontent.com/getcravex/Cravex-Scripts/refs/heads/main/Versus%20Demo/Services.lua"))()
 
